@@ -2,11 +2,11 @@
 var btnTranslate = document.querySelector("#btn-translate")
 var inputxt = document.querySelector("#inputarea")
 var outputarea = document.querySelector("#output")
-var serverurl = "https://api.funtranslations.com/translate/minion.json"
+var serverurl = "https://api.funtranslations.com/translate/pirate.json"
 
 function getTranslationURL(text)
 {
-  return serverurl + "?" + "text1="+ text 
+  return serverurl + "?" + "text="+ text 
 } 
 
   function clickHandler()
