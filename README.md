@@ -1,2 +1,4 @@
 Hey -🕶
-Let's Create Your Own Language to Pirate Language with the help of this Piratelanguage Translator
+Do you remember Captain Jack Sparrow  
+So....
+Let's Create Your Own Language to Pirate Language 
