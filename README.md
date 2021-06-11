@@ -1,4 +1,5 @@
 Hey -🕶
 Do you remember Captain Jack Sparrow  
+If Yes 
 So....
-Let's Create Your Own Language to Pirate Language 
+Want to Speak like him use this  Translator
